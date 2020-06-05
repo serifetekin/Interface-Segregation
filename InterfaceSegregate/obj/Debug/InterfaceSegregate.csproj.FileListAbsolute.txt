@@ -1,0 +1,6 @@
+C:\WEB SERVİS PROJE\SOLID\InterfaceSegregate\InterfaceSegregate\bin\Debug\InterfaceSegregate.exe.config
+C:\WEB SERVİS PROJE\SOLID\InterfaceSegregate\InterfaceSegregate\bin\Debug\InterfaceSegregate.exe
+C:\WEB SERVİS PROJE\SOLID\InterfaceSegregate\InterfaceSegregate\bin\Debug\InterfaceSegregate.pdb
+C:\WEB SERVİS PROJE\SOLID\InterfaceSegregate\InterfaceSegregate\obj\Debug\InterfaceSegregate.csprojAssemblyReference.cache
+C:\WEB SERVİS PROJE\SOLID\InterfaceSegregate\InterfaceSegregate\obj\Debug\InterfaceSegregate.exe
+C:\WEB SERVİS PROJE\SOLID\InterfaceSegregate\InterfaceSegregate\obj\Debug\InterfaceSegregate.pdb
